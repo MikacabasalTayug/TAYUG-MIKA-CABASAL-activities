@@ -1,0 +1,199 @@
+.kilogram{
+    position: fixed;
+    left: 0;
+    top: 0;
+    color: black;
+    background-color: yellow;
+    width: 100%;
+    padding: 10px;
+    border: 5px solid black;
+    z-index: 99999;
+
+}
+
+
+
+.home {
+    position: fixed;
+    color: black;
+    background-color: yellow;
+    top: 20%;
+    width: 40%;
+    border-radius: 20px;
+    border: 5px solid black;
+
+}
+
+.search {
+    position: fixed;
+    color: black;
+    background-color: yellow;
+    top: 36%;
+    width: 40%;
+    border-radius: 20px;
+    border: 5px solid black;
+
+}
+
+.explorer {
+    position: fixed;
+    color: black;
+    background-color: yellow;
+    top: 52%;
+    width: 40%;
+    border-radius: 20px;
+    border: 5px solid black;
+
+}
+
+.reels {
+    position: fixed;
+    color: black;
+    background-color: yellow;
+    top: 68%;
+    width: 40%;
+    border-radius: 20px;
+    border: 5px solid black;
+
+}
+
+.messages {
+    position: fixed;
+    color: black;
+    background-color: yellow;
+    top: 84%;
+    width: 40%;
+    border-radius: 20px;
+    border: 5px solid black;
+
+}
+.pic1{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: pink;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+}
+.pic2{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: pink;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+}
+.pic3{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: pink;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+}
+.pic4{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: pink;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+}
+.pic5{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: pink;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+}
+.pic6{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: pink;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+}
+.pic7{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: pink;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+}
+.pic8{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: pink;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+    
+}
+.pic9{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: pink;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+}
+.pic10{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: pink;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+
+
+
+
+

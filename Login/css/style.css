@@ -1,0 +1,28 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: crimson;
+}
+h1 {
+    font-size: 20px;
+    color: rgb(118, 172, 30);
+}
+
+label {
+    background-color: rgb(228, 207, 20);
+}
+
+#userlabel {
+    font-size: 20px;
+    color: rgb(183, 0, 255);
+}
+#passlabel {
+    font-size: 20px;
+    color: rgb(255, 0, 221);
+}
+
+.labelclass {
+    color: red;
+}
+body{
+    background-color: rgb(20, 228, 124);
+}
